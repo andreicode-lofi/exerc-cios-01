@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\Aula\Aula\bin\Debug\netcoreapp3.1\Aula.exe
+C:\Users\andre\source\repos\Aula\Aula\bin\Debug\netcoreapp3.1\Aula.deps.json
+C:\Users\andre\source\repos\Aula\Aula\bin\Debug\netcoreapp3.1\Aula.runtimeconfig.json
+C:\Users\andre\source\repos\Aula\Aula\bin\Debug\netcoreapp3.1\Aula.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Aula\Aula\bin\Debug\netcoreapp3.1\Aula.dll
+C:\Users\andre\source\repos\Aula\Aula\bin\Debug\netcoreapp3.1\Aula.pdb
+C:\Users\andre\source\repos\Aula\Aula\obj\Debug\netcoreapp3.1\Aula.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Aula\Aula\obj\Debug\netcoreapp3.1\Aula.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Aula\Aula\obj\Debug\netcoreapp3.1\Aula.AssemblyInfo.cs
+C:\Users\andre\source\repos\Aula\Aula\obj\Debug\netcoreapp3.1\Aula.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Aula\Aula\obj\Debug\netcoreapp3.1\Aula.dll
+C:\Users\andre\source\repos\Aula\Aula\obj\Debug\netcoreapp3.1\Aula.pdb
+C:\Users\andre\source\repos\Aula\Aula\obj\Debug\netcoreapp3.1\Aula.genruntimeconfig.cache
